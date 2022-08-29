@@ -1,0 +1,21 @@
+.barranavegacion {
+    display: flex;
+
+    .navbar {
+        display: flex;
+        flex-direction: row;
+        justify-content: end;
+
+        ul {
+            text-decoration: none;
+            text-align: justify;
+
+            li {
+                margin: 0px 20px;
+            }
+        }
+
+    }
+
+
+}
